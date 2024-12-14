@@ -1,0 +1,6 @@
+14-12-2024 18:49:28: [INFO] Программа запущена
+14-12-2024 18:49:28: Обработка исходной папки: e:/FilesNota/572149/1
+14-12-2024 18:49:28: [ERROR] Ошибка при обработке папки e:/FilesNota/572149/1: CreateFile e:/FilesNota/572149/1: The system cannot find the path specified.
+14-12-2024 18:49:28: Обработка исходной папки: e:/FilesNota/572149/2
+14-12-2024 18:49:28: [ERROR] Ошибка при обработке папки e:/FilesNota/572149/2: CreateFile e:/FilesNota/572149/2: The system cannot find the path specified.
+14-12-2024 18:49:28: [INFO] Программа завершена

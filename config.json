@@ -1,0 +1,12 @@
+{
+  "source_dirs": [
+    "e:/FilesNota/572149/1",
+    "e:/FilesNota/572149/2"
+  ],
+  "target_dirs": [
+    "//192.168.2.15/5/test/1",
+    "//192.168.2.15/5/test/2"
+  ],
+  "min_file_size": 26463150,
+  "date_template": "??ГГГГ?ММ?ДД"
+}
